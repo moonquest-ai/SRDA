@@ -1,4 +1,4 @@
-# SRDA: A System-level Simplified Reconfigurable Dataflow Architecture for Large AI Models training and inferencing
+# SRDA: A System-level Simplified Reconfigurable Dataflow Architecture for Large AI Models Training and Inferencing
 
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-SRDA-blue" alt="Architecture">
